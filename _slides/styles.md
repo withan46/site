@@ -19,5 +19,6 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
+  - smart-watch
 ---
 
