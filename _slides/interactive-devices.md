@@ -12,7 +12,7 @@ slides:
   - uber
   - minecraft-end-user
   - xerox-star-genealogy
-  - xerox-star-pc
+  - trackball
   - nls
 ---
 
