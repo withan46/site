@@ -8,5 +8,6 @@ slides:
   - apple-mouse 
   - dvorak-keyboard
   - engelbart-mouse
+  - smart-watch
 ---
 
