@@ -12,7 +12,6 @@ slides:
   - uber
   - minecraft-end-user
   - xerox-star-genealogy
-  - trackball
   - nls
 ---
 
