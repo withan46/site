@@ -1,17 +1,12 @@
 ---
 layout: slides
-title: Ορισμός
-image_url: /images/macintosh-desktop.png
-caption: Διαφάνειες για το κεφάλαιο Ορισμός 
+title: Διαδραστικές Συσκευές
+image_url: /images/trackball.png
+caption: Ηardware των υπολογιστικών συστημάτων που αφορά στην αλληλεπίδραση με το χρήστη, δηλαδή στις συσκευές εισόδου-εξόδου.
 slides:
-  - macintosh-desktop
-  - math-blaster
-  - desktop-interaction-history-future
-  - gmail-beta
-  - linux
-  - uber
-  - minecraft-end-user
-  - xerox-star-genealogy
-  - nls
+  - trackball
+  - apple-mouse 
+  - dvorak-keyboard
+  - engelbart-mouse
 ---
 
