@@ -1,11 +1,18 @@
 ---
 layout: slides
-title: Διαδραστικές Συσκευές
-caption: Διαφάνειες για το κεφάλαιο Διαδραστικές Συσκευές
-image_url: /images/trackball.png 
+title: Ορισμός
+image_url: /images/macintosh-desktop.png
+caption: Διαφάνειες για το κεφάλαιο Ορισμός 
 slides:
-  - trackball
+  - macintosh-desktop
+  - math-blaster
+  - desktop-interaction-history-future
+  - gmail-beta
+  - linux
+  - uber
+  - minecraft-end-user
+  - xerox-star-genealogy
+  - xerox-star-pc
+  - nls
 ---
-
-
 
